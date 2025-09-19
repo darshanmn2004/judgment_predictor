@@ -1,0 +1,57 @@
+# -----------------
+# Python
+# -----------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.pkl
+
+# -----------------
+# Virtual Environments
+# -----------------
+.env
+.venv/
+venv/
+ENV/
+
+# -----------------
+# Logs & Outputs
+# -----------------
+*.log
+*.out
+*.err
+
+# -----------------
+# Model Checkpoints & Large Files
+# -----------------
+checkpoints/
+*.pt
+*.h5
+*.ckpt
+*.joblib
+*.pickle
+
+# -----------------
+# OS / Editor Specific
+# -----------------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# -----------------
+# Data
+# -----------------
+# Ignore all CSVs by default
+*.csv
+
+# But keep small sample datasets
+!sample_civil.csv
+!sample_criminal.csv
+
+# -----------------
+# Misc
+# -----------------
+allfiles.txt
