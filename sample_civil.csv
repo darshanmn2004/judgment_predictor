@@ -1,0 +1,4 @@
+case_id,facts_text,pleas_text,law_context,answer_type,answer_text
+1,"Plaintiff claims defendant failed to return a borrowed laptop.","Defendant borrowed a laptop and has not returned it for 3 months despite multiple requests.","Bailment Laws",1,"Judgment for plaintiff. Defendant ordered to return laptop or pay equivalent value."
+2,"Tenant suing for return of security deposit.","Landlord withheld security deposit claiming damages that were pre-existing.","Tenant Rights",1,"Judgment for plaintiff. Landlord failed to provide evidence of damages."
+3,"Plaintiff claims breach of contract for web development services.","Paid 50% advance but developer delivered incomplete work and stopped responding.","Contract Law",0,"Judgment for defendant. Plaintiff failed to provide clear project specifications."
