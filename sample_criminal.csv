@@ -1,0 +1,4 @@
+case_id,facts_text,charges,law_articles,penalty_months
+1,"The defendant was caught stealing a bicycle from a public park.","Theft","IPC 379",12
+2,"The accused was found with 5 grams of illegal substance.","Drug Possession","NDPS 20",24
+3,"Defendant assaulted a person during an argument.","Assault","IPC 351",6
